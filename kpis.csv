@@ -1,0 +1,11 @@
+;value
+measured_grid_energy_kwh;252463,88799999998
+measured_grid_peak_kw;75,9
+measured_grid_mean_kw;28,820078538812783
+pv_assumption_energy_kwh;21000,000000000004
+pv_assumption_target_kwh;21000,0
+model_consumption_energy_kwh;305301,5149009005
+model_grid_energy_kwh;284301,51490090054
+model_grid_peak_kw;85,41280106642444
+grid_limit_kw;75,0
+measured_quarters_over_75kw;4,0
